@@ -1580,6 +1580,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_LocalPosition: {x: 0.82, y: 1.77, z: -400.69}
 =======
@@ -1594,6 +1595,9 @@ Transform:
 =======
   m_LocalPosition: {x: 0.82, y: 16.76, z: -403.78}
 >>>>>>> parent of 1ea6767 (1)
+=======
+  m_LocalPosition: {x: 0.82, y: 16.76, z: -403.15}
+>>>>>>> parent of 26e2995 (sekronizasyon deneme)
 =======
   m_LocalPosition: {x: 0.82, y: 16.76, z: -403.15}
 >>>>>>> parent of 26e2995 (sekronizasyon deneme)
