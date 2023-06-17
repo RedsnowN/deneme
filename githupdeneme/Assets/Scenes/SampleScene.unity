@@ -460,7 +460,6 @@ MonoBehaviour:
   lookSpeed: 2
   verticalLookRange: 60
   smoothRotation: 5
-  "yer\xE7ekimi": 0
 --- !u!143 &409244729
 CharacterController:
   m_ObjectHideFlags: 0
@@ -1580,6 +1579,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_LocalPosition: {x: 0.82, y: 1.77, z: -400.69}
 =======
@@ -1594,6 +1594,9 @@ Transform:
 =======
   m_LocalPosition: {x: 0.82, y: 16.76, z: -403.78}
 >>>>>>> parent of 1ea6767 (1)
+=======
+  m_LocalPosition: {x: 0.82, y: 16.76, z: -403.15}
+>>>>>>> parent of 26e2995 (sekronizasyon deneme)
   m_LocalScale: {x: 1, y: 1, z: 6.5201}
   m_ConstrainProportionsScale: 0
   m_Children: []
