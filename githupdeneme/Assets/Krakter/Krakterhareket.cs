@@ -12,6 +12,7 @@ public class Krakterhareket : MonoBehaviour
     public float lookSpeed = 2f;
     public float verticalLookRange = 60f;
     public float smoothRotation = 5f;
+    public float yerçekimi;
 
     private CharacterController controller;
     private Vector3 playerVelocity;
@@ -61,7 +62,7 @@ public class Krakterhareket : MonoBehaviour
             }
         }
 
-        playerVelocity.y += Physics.gravity.y * Time.deltaTime;
+        playerVelocity.y += Physics.gravity.y * Time.deltaTime * yerçekimi;
         moveDirection.y = playerVelocity.y;
 
         controller.Move(moveDirection * Time.deltaTime);
